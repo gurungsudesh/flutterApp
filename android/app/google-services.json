@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067611623600",
+    "firebase_url": "https://pickmeup-project.firebaseio.com",
+    "project_id": "pickmeup-project",
+    "storage_bucket": "pickmeup-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067611623600:android:9def493b1ec99c7c496b75",
+        "android_client_info": {
+          "package_name": "com.example.pickmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067611623600-rmsi8r4doeuklokkkka4kvq0f2tl23nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbi8pCJqos1x36XgaRYgAyk9GYwiuBJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067611623600-rmsi8r4doeuklokkkka4kvq0f2tl23nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067611623600-cva6h5lt1irde7aj0d4srjei7vpbbjq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pickmeup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

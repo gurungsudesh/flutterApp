@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to location when open.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to location when in the background.</string>
+	<key>CLIENT_ID</key>
+	<string>1067611623600-cva6h5lt1irde7aj0d4srjei7vpbbjq3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1067611623600-cva6h5lt1irde7aj0d4srjei7vpbbjq3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7roQkhA2mo5jSZkOHdr3NIQcP08bwALU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067611623600</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pickmeup</string>
+	<key>PROJECT_ID</key>
+	<string>pickmeup-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pickmeup-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067611623600:ios:f67a0704f14402ba496b75</string>
+	<key>DATABASE_URL</key>
+	<string>https://pickmeup-project.firebaseio.com</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>
